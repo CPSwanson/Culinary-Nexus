@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\bin\Debug\ProcessingVB.dll
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\bin\Debug\ProcessingVB.pdb
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\bin\Debug\ProcessingVB.xml
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\bin\Debug\Google.Protobuf.dll
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\bin\Debug\MySql.Data.dll
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\bin\Debug\Google.Protobuf.xml
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\bin\Debug\MySql.Data.xml
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\obj\Debug\ProcessingVB.Resources.resources
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\obj\Debug\ProcessingVB.vbproj.GenerateResource.cache
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\obj\Debug\ProcessingVB.vbproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\obj\Debug\ProcessingVB.vbproj.CopyComplete
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\obj\Debug\ProcessingVB.dll
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\obj\Debug\ProcessingVB.xml
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\obj\Debug\ProcessingVB.pdb
+C:\Users\chris\Desktop\ProcessingVB\ProcessingVB\obj\Debug\ProcessingVB.vbprojAssemblyReference.cache
